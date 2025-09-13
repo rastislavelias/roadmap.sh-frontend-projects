@@ -3,7 +3,7 @@
 This repository contains my solutions to the [roadmap.sh](https://roadmap.sh/frontend) **Frontend Developer Projects**. The goal is to practice core web development skills using **HTML, CSS, JavaScript, and modern tools**.
 
 ## Projects
-- [ ] [Single-Page CV](./projects/01-single-page-cv)
+- [ ] [Single-Page CV](./projects/01-single-page-cv) (https://roadmap.sh/projects/single-page-cv)
 <!-- - [ ] Basic HTML Website
 - [ ] Personal Portfolio
 - [ ] Changelog Component
