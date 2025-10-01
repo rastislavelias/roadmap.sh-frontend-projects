@@ -22,3 +22,7 @@ This repository contains my solutions to the [roadmap.sh](https://roadmap.sh/fro
 ---
 
 ⭐️ Work in Progress — more projects will be added as I complete them.
+
+### Project URL
+* https://roadmap.sh/projects/single-page-cv
+* https://roadmap.sh/projects/basic-html-website
